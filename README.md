@@ -9,4 +9,4 @@ Product management mostly but enough code to follow what I'm asking for.
 
 📝 [shahlo.blog](https://shahlo.blog) — writing  whatever's bothering me that week
 
-![stats](https://github-readme-stats.vercel.app/api?username=shahloabdullayeva&show_icons=true&hide=stars)
+![stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=shahloabdullayeva&show_icons=true&hide=stars,followers)
