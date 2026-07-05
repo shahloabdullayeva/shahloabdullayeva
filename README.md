@@ -1,7 +1,12 @@
-## Shahlo Abdullayeva
+# Shahlo Abdullayeva
 
-Aspiring project manager in Tashkent, CAPM® certified.
+![Fedora](https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
-I work in product ownership and stakeholder management and right now I'm learning to talk to technical people. The small tools I build along the way are in the repos below.
+Product management mostly but enough code to follow what I'm asking for.
 
-[LinkedIn](https://www.linkedin.com/in/shaxloabdullayeva/)
+📝 [shahlo.blog](https://shahlo.blog) — writing  whatever's bothering me that week
+
+![stats](https://github-readme-stats.vercel.app/api?username=shahloabdullayeva&show_icons=true&hide=stars)
