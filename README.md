@@ -9,4 +9,4 @@ Product management mostly but enough code to follow what I'm asking for.
 
 [shahlo.blog](https://shahlo.blog)  writing  whatever's bothering me that week
 
-![Visitors](https://komarev.com/ghpvc/?username=shahloabdullayeva&color=blue) ![GitHub Streak](https://streak-stats.demolab.com/?user=shahloabdullayeva)
+![Visitors](https://komarev.com/ghpvc/?username=shahloabdullayeva&color=blue) ![GitHub Streak](https://streak-stats.demolab.com/?user=shahloabdullayeva&hide_total_contributions=true&background=transparent&hide_border=true&card_width=330)
