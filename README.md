@@ -12,6 +12,6 @@ Product management mostly but enough code to follow what I'm asking for.
 ![Visitors](https://komarev.com/ghpvc/?username=shahloabdullayeva&color=blue)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=shahloabdullayeva&hide_total_contributions=true&background=transparent&hide_border=true&card_width=330&theme=dark">
-  <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=shahloabdullayeva&hide_total_contributions=true&background=transparent&hide_border=true&card_width=330">
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=shahloabdullayeva&hide_total_contributions=true&background=transparent&hide_border=true&card_width=330&theme=dark&fire=51A2DA&ring=51A2DA&currStreakLabel=51A2DA">
+  <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=shahloabdullayeva&hide_total_contributions=true&background=transparent&hide_border=true&card_width=330&fire=51A2DA&ring=51A2DA&currStreakLabel=51A2DA">
 </picture>
