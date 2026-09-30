@@ -5,7 +5,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
-Product management mostly but enough code to follow what I'm asking for.
+Product management.
 
 [shahlo.blog](https://shahlo.blog)  writing  whatever's bothering me that week
 
